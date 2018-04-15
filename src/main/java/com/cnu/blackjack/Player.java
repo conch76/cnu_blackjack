@@ -2,8 +2,6 @@ package com.cnu.blackjack;
 
 import lombok.Data;
 
-import java.util.List;
-
 @Data
 public class Player {
 
