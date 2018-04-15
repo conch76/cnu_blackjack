@@ -1,5 +1,6 @@
 package com.cnu.blackjack;
 
+import com.cnu.blackjack.exceptions.NoMoreCardException;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;

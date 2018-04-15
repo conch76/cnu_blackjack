@@ -1,4 +1,4 @@
-package com.cnu.blackjack;
+package com.cnu.blackjack.exceptions;
 
 public class NotEnoughBalanceException extends RuntimeException {
 }

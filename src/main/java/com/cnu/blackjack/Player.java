@@ -1,5 +1,6 @@
 package com.cnu.blackjack;
 
+import com.cnu.blackjack.exceptions.NotEnoughBalanceException;
 import lombok.Data;
 
 @Data
