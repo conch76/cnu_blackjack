@@ -1,4 +1,4 @@
-package com.cnu.poker;
+package com.cnu.blackjack;
 
 import lombok.Data;
 

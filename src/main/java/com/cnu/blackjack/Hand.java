@@ -1,4 +1,4 @@
-package com.cnu.poker;
+package com.cnu.blackjack;
 
 import java.util.ArrayList;
 import java.util.List;
