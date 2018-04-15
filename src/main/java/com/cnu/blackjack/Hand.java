@@ -11,8 +11,10 @@ public class Hand {
         this.deck = deck;
     }
 
-    public void drawCard() {
-        cardList.add(deck.drawCard());
+    public Card drawCard() {
+        Card card = deck.drawCard();
+        cardList.add(card);
+        return card;
     }
 
     public List<Card> getCardList() {
